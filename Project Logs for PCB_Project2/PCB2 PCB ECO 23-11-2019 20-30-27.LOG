@@ -1,0 +1,211 @@
+Added Component: Designator=5V aon1(HDR1X2)
+Added Component: Designator=5V aon2(HDR1X2)
+Added Component: Designator=BAT(HDR1X2)
+Added Component: Designator=C1(CAPC2512L)
+Added Component: Designator=C2(CAPC2512L)
+Added Component: Designator=C4(CAPC3216L)
+Added Component: Designator=C5(CAPC3216L)
+Added Component: Designator=C6(CAPC3216L)
+Added Component: Designator=C11(CAPC3216L)
+Added Component: Designator=C12(CAPC3216L)
+Added Component: Designator=C14(CAPC3216L)
+Added Component: Designator=C15(CAPC3216L)
+Added Component: Designator=C16(CAPC3216L)
+Added Component: Designator=C17(CAPC3216L)
+Added Component: Designator=C18(CAPC3216L)
+Added Component: Designator=C19(CAPC3216L)
+Added Component: Designator=C20(CAPC3216L)
+Added Component: Designator=C21(CAPC3216L)
+Added Component: Designator=C?(CAPC3216L)
+Added Component: Designator=C?(CAPC4532L)
+Added Component: Designator=D3(CAPC3216L)
+Added Component: Designator=D5(CAPC3216L)
+Added Component: Designator=D10(DSO-F2/D6.1)
+Added Component: Designator=Out 1 3.3V(HDR1X2)
+Added Component: Designator=Out 1 5V(HDR1X2)
+Added Component: Designator=Out 2 3.3V(HDR1X2)
+Added Component: Designator=Out 2 5V(HDR1X2)
+Added Component: Designator=P?(HDR1X5)
+Added Component: Designator=P?(HDR1X3)
+Added Component: Designator=P?(HDR1X6)
+Added Component: Designator=P?(HDR1X7)
+Added Component: Designator=P?(HDR1X2)
+Added Component: Designator=P?(HDR1X2)
+Added Component: Designator=P?(HDR1X2)
+Added Component: Designator=P?(HDR1X2)
+Added Component: Designator=P?(HDR1X2)
+Added Component: Designator=R1(RESC1608L)
+Added Component: Designator=R2(RESC1608L)
+Added Component: Designator=R3(RESC1608L)
+Added Component: Designator=R4(RESC1608L)
+Added Component: Designator=R5(RESC1608L)
+Added Component: Designator=R6(RESC1608L)
+Added Component: Designator=R7(RESC1608L)
+Added Component: Designator=R8(RESC1608L)
+Added Component: Designator=R9(RESC1608L)
+Added Component: Designator=R10(RESC1608L)
+Added Component: Designator=R?(RESC1608L)
+Added Component: Designator=S1(HDR1X2)
+Added Component: Designator=S2(HDR1X2)
+Added Component: Designator=S3(HDR1X2)
+Added Component: Designator=S4(HDR1X2)
+Added Component: Designator=SA1(HDR1X2)
+Added Component: Designator=SA2(HDR1X2)
+Added Component: Designator=SA3(HDR1X2)
+Added Component: Designator=SA4(HDR1X2)
+Added Component: Designator=SV1(HDR1X2)
+Added Component: Designator=SV2(HDR1X2)
+Added Pin To Net: NetName=GND Pin=5V aon1-2
+Added Pin To Net: NetName=GND Pin=5V aon2-2
+Added Pin To Net: NetName=GND Pin=BAT-2
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=D10-2
+Added Pin To Net: NetName=GND Pin=Out 1 3.3V-2
+Added Pin To Net: NetName=GND Pin=Out 1 5V-2
+Added Pin To Net: NetName=GND Pin=Out 2 3.3V-2
+Added Pin To Net: NetName=GND Pin=Out 2 5V-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Pin To Net: NetName=GND Pin=S4-2
+Added Pin To Net: NetName=GND Pin=SA1-2
+Added Pin To Net: NetName=GND Pin=SA2-2
+Added Pin To Net: NetName=GND Pin=SA3-2
+Added Pin To Net: NetName=GND Pin=SA4-2
+Added Pin To Net: NetName=GND Pin=SV1-2
+Added Pin To Net: NetName=GND Pin=SV2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=Net3.3_1 Pin=C?-2
+Added Pin To Net: NetName=Net3.3_1 Pin=P?-1
+Added Pin To Net: NetName=Net3.3_1 Pin=R?-2
+Added Net: Name=Net3.3_1
+Added Pin To Net: NetName=Net3.3_3 Pin=P?-1
+Added Net: Name=Net3.3_3
+Added Pin To Net: NetName=Net3.3_5 Pin=P?-1
+Added Net: Name=Net3.3_5
+Added Pin To Net: NetName=Net3.3_8 Pin=C18-2
+Added Pin To Net: NetName=Net3.3_8 Pin=Out 2 3.3V-1
+Added Net: Name=Net3.3_8
+Added Pin To Net: NetName=Net3.3_10 Pin=C15-2
+Added Net: Name=Net3.3_10
+Added Pin To Net: NetName=Net3.3_12 Pin=C14-2
+Added Net: Name=Net3.3_12
+Added Pin To Net: NetName=Net3.3_13 Pin=C20-1
+Added Pin To Net: NetName=Net3.3_13 Pin=Out 1 3.3V-1
+Added Net: Name=Net3.3_13
+Added Pin To Net: NetName=Net5.0_1 Pin=5V aon1-1
+Added Pin To Net: NetName=Net5.0_1 Pin=5V aon2-1
+Added Net: Name=Net5.0_1
+Added Pin To Net: NetName=Net5.0_3 Pin=P?-1
+Added Net: Name=Net5.0_3
+Added Pin To Net: NetName=Net5.0_5 Pin=P?-1
+Added Net: Name=Net5.0_5
+Added Pin To Net: NetName=Net5.0_8 Pin=C19-2
+Added Pin To Net: NetName=Net5.0_8 Pin=Out 2 5V-1
+Added Net: Name=Net5.0_8
+Added Pin To Net: NetName=Net5.0_10 Pin=C17-2
+Added Net: Name=Net5.0_10
+Added Pin To Net: NetName=Net5.0_12 Pin=C16-2
+Added Net: Name=Net5.0_12
+Added Pin To Net: NetName=Net5.0_13 Pin=C21-1
+Added Pin To Net: NetName=Net5.0_13 Pin=Out 1 5V-1
+Added Net: Name=Net5.0_13
+Added Pin To Net: NetName=Net_1 Pin=C4-2
+Added Pin To Net: NetName=Net_1 Pin=R2-2
+Added Net: Name=Net_1
+Added Pin To Net: NetName=Net_2 Pin=R2-1
+Added Pin To Net: NetName=Net_2 Pin=R3-2
+Added Net: Name=Net_2
+Added Pin To Net: NetName=Net_4 Pin=R4-2
+Added Net: Name=Net_4
+Added Pin To Net: NetName=Net_7 Pin=R6-2
+Added Net: Name=Net_7
+Added Pin To Net: NetName=Net_8 Pin=R7-2
+Added Net: Name=Net_8
+Added Pin To Net: NetName=Net_9 Pin=BAT-1
+Added Pin To Net: NetName=Net_9 Pin=C6-2
+Added Pin To Net: NetName=Net_9 Pin=R8-1
+Added Pin To Net: NetName=Net_9 Pin=R9-2
+Added Pin To Net: NetName=Net_9 Pin=SV2-1
+Added Net: Name=Net_9
+Added Pin To Net: NetName=Net_10 Pin=R8-2
+Added Net: Name=Net_10
+Added Pin To Net: NetName=Net_11 Pin=C5-1
+Added Net: Name=Net_11
+Added Pin To Net: NetName=Net_12 Pin=C5-2
+Added Net: Name=Net_12
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=R1-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_1 Pin=SV1-1
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?-1
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=P?-2
+Added Net: Name=NetC?_2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD3_C Pin=R4-1
+Added Net: Name=NetD3_C
+Added Net: Name=NetD5_A
+Added Net: Name=NetD8_1
+Added Net: Name=NetD9_1
+Added Pin To Net: NetName=NetD10_1 Pin=D10-1
+Added Pin To Net: NetName=NetD10_1 Pin=R5-2
+Added Net: Name=NetD10_1
+Added Pin To Net: NetName=NetDP1_2 Pin=S1-1
+Added Pin To Net: NetName=NetDP1_2 Pin=SA1-1
+Added Net: Name=NetDP1_2
+Added Pin To Net: NetName=NetDP2_2 Pin=S2-1
+Added Pin To Net: NetName=NetDP2_2 Pin=SA2-1
+Added Net: Name=NetDP2_2
+Added Pin To Net: NetName=NetDP3_2 Pin=S3-1
+Added Pin To Net: NetName=NetDP3_2 Pin=SA3-1
+Added Net: Name=NetDP3_2
+Added Pin To Net: NetName=NetDP4_2 Pin=S4-1
+Added Pin To Net: NetName=NetDP4_2 Pin=SA4-1
+Added Net: Name=NetDP4_2
+Added Pin To Net: NetName=NetP?_1 Pin=P?-1
+Added Net: Name=NetP?_1
+Added Pin To Net: NetName=NetP?_2 Pin=P?-2
+Added Net: Name=NetP?_2
+Added Net: Name=NetP?_3
+Added Net: Name=NetP?_4
+Added Net: Name=NetP?_5
+Added Net: Name=NetP?_6
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=R9-1
+Added Pin To Net: NetName=NetR6_1 Pin=R10-2
+Added Net: Name=NetR6_1
+Added Class: Name=ta kak aul
+Added Room: Name=ta kak aul
